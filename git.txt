@@ -1,0 +1,28 @@
+Basic git commands :
+
+0. 00:00 Intro
+1. 11:45 git init
+2. 12:05 git status
+3. 12:15 git add [filename]
+4. 12:45 git add .
+5. 12:55 git commit -m "message"
+6. 13:25 git log
+7. 14:02 git branch
+8. 14:40 git diff --cached
+9. 15:35 git diff [commit-number]
+10.1. 17:12 git checkout [commit-number]
+10.2. 18:00 git checkout [branch-name]
+
+Advanced git commands :
+
+11. 26:31 git branch [branch-name]
+12. 33:08 git branch -d [branch-name]
+13. 34:45 git stash
+14. 35:37 git stash apply
+15. 42:06 git remote add [remote-name] [remote-url]
+16. 43:30 git push [remote-name] [remote-url]
+17. 46:15 git checkout -b [branch-name]
+18. 49:05 git fetch
+19. 49:45 git merge
+20. 50:45 git pull [remote-name] [branch-name]
+21. 51:45 git clone [remote-url]
