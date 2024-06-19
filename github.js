@@ -1,2 +1,2 @@
-a=console.log('document.getElementsById(#sunny));
-console.log('a');
+ const anchor=console.log('ANCHOR TAG')
+console.log('anchor');
